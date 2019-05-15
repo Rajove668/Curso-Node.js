@@ -1,0 +1,3 @@
+Ha Matriculado el => Curso de Node.JS su Id es 0001,
+   Tiene una duración de 32 horas y un valor de 0 pesos.
+ Gracias Ramiro Jose Verbel De La Rosa, la cedula con que registraste el curso es: 123456789
