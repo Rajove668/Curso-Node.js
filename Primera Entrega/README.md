@@ -15,3 +15,7 @@ entre cada curso
 - Debe generar en un archivo de texto con la información del curso en conjunto con la mía
 - Generar un mensaje de alerta en caso de no encontrar un id.
 - En caso de no estar interesado debe mostrarme la lista de cursos, en caso de escribir “inscribir” debe hacer el proceso de inscripción
+
+# Prueba Solucion Tag 1.0 Primera Entrega #
+
+![CapturaPruebaConsola](https://github.com/Rajove668/Curso-Node.js/tree/master/Primera%20Entrega/Prueba1.png)

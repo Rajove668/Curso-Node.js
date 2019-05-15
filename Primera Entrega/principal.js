@@ -27,7 +27,7 @@ if (curso) {
     imprimirCurso(curso.id, (info) => {
         let texto = "Ha Matriculado el " + info;
         console.log(texto);
-        texto += "\n Gracias " + argv.n + ", la cedula con que registraste el curso es: " + argv.x + ".";
+        texto += "\nGracias " + argv.n + ", la cedula con que registraste el curso es: " + argv.x + ".";
         fs.writeFile('matricula.txt', texto, (err) => {
             if (err) throw (err);
             console.log("Se Ha Guardado la Matricula");
