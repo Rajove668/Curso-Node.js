@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Curso Node.js",
+  "main": "app.js",
+  "dependencies": {
+    "nodemon": "^1.19.0",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajove668",
+  "license": "ISC"
+}

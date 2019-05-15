@@ -1,0 +1,2 @@
+El nombre del estudiante es Ramiro
+Ha obtenido un promedio de: 4
