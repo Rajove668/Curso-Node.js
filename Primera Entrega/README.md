@@ -18,4 +18,4 @@ entre cada curso
 
 # Prueba Solucion Tag 1.0 Primera Entrega #
 
-![CapturaPruebaConsola](https://github.com/Rajove668/Curso-Node.js/tree/master/Primera%20Entrega/Prueba1.png)
+![CapturaPruebaConsola](./Prueba1.png)
